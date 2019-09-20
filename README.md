@@ -24,6 +24,7 @@ pip install scanpy python-igraph louvain
 **NOTE:** Advanced users feel free to set up your environment as you please.
 
 6. In your Anaconda Navigator select created environment and click install button under Jupyter Lab icon.  
+7. Launch Jupyter Lab from Anaconda Navigator and start your magic!
 
 ### Windows setup  
 1. Anaconda Prompt.  
@@ -40,7 +41,7 @@ pip install scanpy python-igraph louvain
 **NOTE:** Advanced users feel free to set up your environment as you please.
 
 6. In your Anaconda Navigator select created environment and click install button under Jupyter Lab icon.  
-
+7. Launch Jupyter Lab from Anaconda Navigator and start your magic!
 
 
 # R *seurat* setup for MacOS and Windows  
@@ -53,9 +54,11 @@ Open downloaded file and follow the instructions.
 ### MacOS and Windows setup  
 1. Open Rstudio.  
 2. `install.packages('Seurat')`
+3. Start your magic!
 
 
 # Tutorial links:  
+These links get you more familiar with the single cell analysis.
 ### PBMC clustering with scanpy  
 https://scanpy-tutorials.readthedocs.io/en/latest/visualizing-marker-genes.html
 

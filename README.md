@@ -28,8 +28,8 @@ pip install scanpy python-igraph louvain
 
 ### Windows setup  
 1. Launch Anaconda Prompt.  
-2. `conda create -n immunox_hack19 pip`  
-3. `source activate immunox_hack19` - this will activate your environment where you will install packages and perform analysis.  
+2. `create -n immunox_hack19 pip`  
+3. `activate immunox_hack19` - this will activate your environment where you will install packages and perform analysis.  
 4. `conda install pandas numpy scipy`  
 5. Next set of commands will install `scanpy` and dependencies   
 ```shell script

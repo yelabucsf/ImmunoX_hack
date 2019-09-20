@@ -67,7 +67,7 @@ https://satijalab.org/seurat/vignettes.html
 
 
 # Importing your datasets  
-This will help you to import your datasets for gene and surgace protein expression  
+This will help you to import your datasets for gene and surface protein expression  
 
 ### scanpy  
 ```python

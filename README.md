@@ -16,7 +16,7 @@ Open downloaded file and follow the instructions.
 4. `conda install pandas numpy scipy`  
 5. Next set of commands will install `scanpy` and dependencies   
 ```shell script
-conda install seaborn scikit-learn statsmodels numba pytables seaborn
+conda install seaborn scikit-learn statsmodels numba pytables
 conda install -c conda-forge python-igraph louvain
 pip install leidenalg
 pip install scanpy python-igraph louvain

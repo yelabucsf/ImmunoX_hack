@@ -48,7 +48,7 @@ pip install scanpy python-igraph louvain
 Use the following link:  
 https://www.rstudio.com/products/rstudio/download/
 
-Select *RStudio Desktop* and click download
+Select *RStudio Desktop* and click download  
 Open downloaded file and follow the instructions.  
 
 ### MacOS and Windows setup  

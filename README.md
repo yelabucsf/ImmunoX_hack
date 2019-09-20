@@ -1,5 +1,5 @@
 # ImmunoX hackathon 2019
-Instructions for setting up environment for scRNA-seq analysis using `scanpy` for Python of `seurat` for R.  
+Instructions for setting up environment for scRNA-seq analysis using `scanpy` for Python or `seurat` for R.  
 You don't need both packages, choose whatever you are familiar with.  
  
 # Python *scanpy* setup for MacOS and Windows   

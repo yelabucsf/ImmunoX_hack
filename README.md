@@ -58,7 +58,7 @@ Open downloaded file and follow the instructions.
 
 
 # Tutorial links:  
-These links get you more familiar with the single cell analysis.
+These links will get you more familiar with the single cell analysis.
 ### PBMC clustering with scanpy  
 https://scanpy-tutorials.readthedocs.io/en/latest/visualizing-marker-genes.html
 

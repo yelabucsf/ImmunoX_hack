@@ -6,13 +6,13 @@ You don't need both packages, choose whatever you are familiar with.
 Use the following link:  
 https://www.anaconda.com/distribution/#download-section  
 
-Select your operating system and click download for **Python 3.7 version**  
+Select your operating system and click download for **Python 3.8 version**  
 Open downloaded file and follow the instructions.  
 
 ### MacOS setup  
 1. Open terminal.  
-2. `conda create -n immunox_hack19 pip`  
-3. `source activate immunox_hack19` - this will activate your environment where you will install packages and perform analysis.  
+2. `conda create -n immunox_hack pip`  
+3. `source activate immunox_hack` - this will activate your environment where you will install packages and perform analysis.  
 4. `conda install pandas numpy scipy`  
 5. Next set of commands will install `scanpy` and dependencies   
 ```shell script
@@ -28,8 +28,8 @@ pip install scanpy python-igraph louvain
 
 ### Windows setup  
 1. Launch Anaconda Prompt.  
-2. `create -n immunox_hack19 pip`  
-3. `activate immunox_hack19` - this will activate your environment where you will install packages and perform analysis.  
+2. `create -n immunox_hack pip`  
+3. `activate immunox_hack` - this will activate your environment where you will install packages and perform analysis.  
 4. `conda install pandas numpy scipy`  
 5. Next set of commands will install `scanpy` and dependencies   
 ```shell script
